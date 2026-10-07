@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://channel0114240-del.github.io/javis-3tier-brain/sitemap.xml
