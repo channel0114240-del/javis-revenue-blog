@@ -1,0 +1,7 @@
+{
+  "title": "Better HTTP/1 connection reuse in Go 1.27",
+  "category": "Blog",
+  "deployed_at": "2026-10-15T15:00:14.102259+00:00",
+  "source": "revenue_engine_v2",
+  "status": "deployed"
+}
