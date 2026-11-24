@@ -1,18 +1,18 @@
 # Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang
 
-> HN 트렌드 분석 | 원본: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/ | 트렌드 점수: 419 points
+> HN 트렌드 분석 | 원본: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/ | 트렌드 점수: 425 points
 
 ## 📈 시장 기회 분석
 
-**트렌드 강도**: 419 points (HN 커뮤니티 검증)
+**트렌드 강도**: 425 points (HN 커뮤니티 검증)
 **수익 모델**: Trading
 **실행 등급**: A
 
 ### 핵심 통찰
-이 HN 스토리는 419 포인트의 관심을 받았습니다. 이는 시장에서 실제 수요가 있음을 의미합니다.
+이 HN 스토리는 425 포인트의 관심을 받았습니다. 이는 시장에서 실제 수요가 있음을 의미합니다.
 
 ### 시장 규모 추정
-- HN 커뮤니티 내 긍정적 반응: 419 포인트
+- HN 커뮤니티 내 긍정적 반응: 425 포인트
 - 연관 검색량 증가 추세
 - 경쟁사 분석: 유사 제품/서비스 다수 존재 → 시장 성숙
 
