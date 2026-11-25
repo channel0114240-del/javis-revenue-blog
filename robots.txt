@@ -1,5 +1,3 @@
-
-
-# RSS
-<link rel="alternate" type="application/rss+xml" title="JAVIS RSS" href="https://channel0114240-del.github.io/javis-revenue-blog/blog/rss.xml">
-<link rel="alternate" type="application/atom+xml" title="JAVIS Atom" href="https://channel0114240-del.github.io/javis-revenue-blog/blog/atom.xml">
+User-agent: *
+Allow: /
+Sitemap: https://channel0114240-del.github.io/javis-revenue-blog/sitemap.xml
